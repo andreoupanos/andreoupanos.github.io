@@ -9,9 +9,5 @@ Below are selected lecture slides from the course:
 
 ## Lecture Slides
 
-Below is a selection of lecture slides from STOR 155:
-
-- [Lecture 1 - Introduction](../../assets/files/stor155/lecture1.pdf)
-- [Lecture 2 - Conditional Probability](../../assets/files/stor155/lecture2.pdf)
-- [Lecture 3 - Sampling Distributions](../../assets/files/stor155/lecture3.pdf)
-- ... *(add more as needed)*
+- [Lectures 1–14 (PDF)](../../assets/files/stor155/Lectures1-14.pdf)
+- [Lectures 15–30 (PDF)](../../assets/files/stor155/Lectures15-30.pdf)
