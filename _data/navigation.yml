@@ -15,7 +15,13 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    children:
+      - title: "STOR 155"
+        url: /teaching/stor155/
+      - title: "STOR 113"
+        url: /teaching/stor113/
+  
     
   #- title: "Portfolio"
   #  url: /portfolio/
