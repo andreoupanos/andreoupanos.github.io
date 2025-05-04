@@ -1,14 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I'm Panagiotis (Panos) Andreou, a PhD candidate in Statistics at UNC Chapel Hill. 
+## 👋 Hello there, I’m Panagiotis!
 
-My research focuses on network time series and high-dimensional statistics for ecnometrics. 
+🎓 I’m a PhD candidate in **Statistics** at the University of North Carolina at Chapel Hill.
 
-In the coming year, I will be at the job market for PostDocs.
+🔬 My research focuses on **network time series** and **high-dimensional statistics for econometrics**.
+
+🧭 In the coming year, I will be on the **job market for postdocs** in statistics and related fields.
+
+---
+
+💡 For more details, feel free to explore the tabs above or download my [CV](./cv/).
