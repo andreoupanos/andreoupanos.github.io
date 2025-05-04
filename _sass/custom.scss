@@ -1,0 +1,16 @@
+// Override background and text color
+body {
+    background-color: #f5f5f5;  // light gray
+    color: #222;                // near-black text
+  }
+  
+  // Optional: Change top nav background
+  .masthead {
+    background-color: #ffffff;  // white header
+  }
+  
+  // Optional: Remove gray border line under header
+  .masthead {
+    border-bottom: none;
+  }
+  
