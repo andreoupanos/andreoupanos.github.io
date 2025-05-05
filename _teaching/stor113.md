@@ -2,11 +2,14 @@
 title: "STOR 113: Decision Models for Business and Economics"
 collection: teaching
 permalink: /teaching/stor113
+venue: UNC Chapel Hill
+location: Chapel Hill, NC
+date: 2025-01-01
 layout: single
 author_profile: true
 ---
 
-Although I was scheduled to teach **STOR 113** in Summer 2025, I prepared comprehensive lecture notes in advance.
+I typed some notes for **STOR 113** based on lecture notes of past instructors.
 
 ## Lecture Notes
 

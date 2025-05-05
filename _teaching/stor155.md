@@ -2,6 +2,9 @@
 title: "STOR 155: Introduction to Data Models and Inference"
 collection: teaching
 permalink: /teaching/stor155
+venue: UNC Chapel Hill
+location: Chapel Hill, NC
+date: 2025-01-01
 layout: single
 author_profile: true
 ---
