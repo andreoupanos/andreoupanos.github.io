@@ -9,5 +9,6 @@ author_profile: true
 This page lists selected courses and notes I've created or contributed to.
 
 {% for post in site.teaching %}
-  {% include archive-single.html type="grid" %}
+  {% include archive-single.html %}
+  <hr>
 {% endfor %}
