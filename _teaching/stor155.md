@@ -2,6 +2,8 @@
 title: "STOR 155: Introduction to Data Models and Inference"
 collection: teaching
 permalink: /teaching/stor155
+layout: single
+author_profile: true
 ---
 
 I taught **STOR 155** three times at UNC Chapel Hill (Fall 2023, Summer 2024, Spring 2025).  
