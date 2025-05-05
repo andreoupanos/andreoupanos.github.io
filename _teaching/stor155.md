@@ -9,5 +9,5 @@ Below are selected lecture slides from the course:
 
 ## Lecture Slides
 
-- [Lectures 1–14 (PDF)](../../assets/files/stor155/Lectures1-14.pdf)
-- [Lectures 15–30 (PDF)](../../assets/files/stor155/Lectures15-30.pdf)
+- [Lectures 1–14 (PDF)](/assets/files/stor155/Lectures_1_to_14.pdf)
+- [Lectures 15–30 (PDF)](/assets/files/stor155/Lectures_15_to_30.pdf)
