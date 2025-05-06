@@ -30,4 +30,4 @@ I typed some notes for **STOR 113** based on lecture notes of past instructors.
 
 I assisted in creating self-contained lecture notes in **Mathematical Statistics**, where the primary author is [Bill Katsianos](https://katsianos.github.io/).
 
-- 📄 [MathStats notes](/assets/files/math_stats/Mathematical_Statistics.pdf)
+- [MathStats notes](/assets/files/math_stats/Mathematical_Statistics.pdf)
