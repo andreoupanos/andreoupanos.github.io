@@ -7,23 +7,23 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
+#main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
 
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/
-    children:
-      - title: "STOR 155"
-        url: /teaching/stor155/
-      - title: "STOR 113"
-        url: /teaching/stor113/
+  #- title: "Teaching"
+  #  url: /teaching/
+  #  children:
+  #    - title: "STOR 155"
+  #      url: /teaching/stor155/
+  #    - title: "STOR 113"
+  #      url: /teaching/stor113/
   
     
   #- title: "Portfolio"
@@ -40,3 +40,13 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Notes"
+    url: /notes/

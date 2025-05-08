@@ -17,23 +17,6 @@ I taught **STOR 155** three times at UNC Chapel Hill (Fall 2023, Summer 2024, Sp
 Below are selected lecture slides and a brief overview of the course:
 
 - [STOR 155 slides](/assets/files/stor155/STOR_155_slides.pdf)
-- [STOR 155 review](/assets/files/stor155/STOR155Review.pdf)
-
----
-
-### STOR 113: Decision Models for Business and Economics
-
-I typed some notes for **STOR 113** based on lecture notes of past instructors.
-
-- [STOR 113 notes](/assets/files/stor113/STOR_113_notes.pdf)
-
----
-
-### Mathematical Statistics
-
-I assisted in creating self-contained lecture notes in **Mathematical Statistics**, where the primary author is [Bill Katsianos](https://katsianos.github.io/).
-
-- [MathStats notes](/assets/files/math_stats/Mathematical_Statistics.pdf)
 
 ---
 
