@@ -14,7 +14,7 @@ This page lists selected courses and notes I've created or contributed to.
 ### STOR 155: Introduction to Data Models and Inference
 
 I taught STOR 155 three times at UNC Chapel Hill (Fall 2023, Summer 2024, Spring 2025).  
-Below are selected lecture slides and a brief overview of the course:
+Below are the lecture slides I created for the course:
 
 - [STOR 155 slides](/assets/files/stor155/STOR_155_slides.pdf)
 
