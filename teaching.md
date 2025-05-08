@@ -5,9 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-This page lists selected courses and notes I've created or contributed to.
-
----
 
 ## Instructor
 
