@@ -24,6 +24,5 @@ author_profile: true
 
 ### Seminar on Stochastic Processes
 *March 2024*
-
 5-minute lightning talk and poster presentation
 - [Slides](/assets/files/talks/PanagiotisAndreou_SSP2024.pdf)
