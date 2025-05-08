@@ -5,11 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-This page lists selected courses and notes I’ve created or contributed to.
+This page lists selected courses and notes I've created or contributed to.
 
 ---
 
-## STOR 155: Introduction to Data Models and Inference
+## Instructor
+
+### STOR 155: Introduction to Data Models and Inference
 
 I taught **STOR 155** three times at UNC Chapel Hill (Fall 2023, Summer 2024, Spring 2025).  
 Below are selected lecture slides and a brief overview of the course:
@@ -19,7 +21,7 @@ Below are selected lecture slides and a brief overview of the course:
 
 ---
 
-## STOR 113: Decision Models for Business and Economics
+### STOR 113: Decision Models for Business and Economics
 
 I typed some notes for **STOR 113** based on lecture notes of past instructors.
 
@@ -27,8 +29,20 @@ I typed some notes for **STOR 113** based on lecture notes of past instructors.
 
 ---
 
-## Mathematical Statistics
+### Mathematical Statistics
 
 I assisted in creating self-contained lecture notes in **Mathematical Statistics**, where the primary author is [Bill Katsianos](https://katsianos.github.io/).
 
 - [MathStats notes](/assets/files/math_stats/Mathematical_Statistics.pdf)
+
+---
+
+## Teaching Assistant
+
+At UNC Chapel Hill, I have served as a Teaching Assistant for the following courses:
+
+- STOR 654 - Theoretical Statistics I (graduate)
+- STOR 557 - Advanced Methods in Data Analysis (graduate)
+- STOR 435: Introduction to Probability (undergraduate)
+- STOR 155 - Introduction to Data Models and Inference (undergraduate)
+- STOR 151 - Introduction to Data Analysis (undergraduate)
