@@ -11,6 +11,8 @@ This page contains selected notes I’ve written or contributed to.
 
 ## STOR 155: Introduction to Data Models and Inference
 
+Below are a few files I created while teaching STOR 155. The first two give a quick summary of the class and the last one includes some of my favorite quotes I shared with the students. 
+
 - [STOR 155 Review](/assets/files/stor155/STOR155Review.pdf)
 - [Formula Sheet](/assets/files/stor155/FormulaSheet.pdf)
 - [Quotes](/assets/files/stor155/Quotes.pdf)
