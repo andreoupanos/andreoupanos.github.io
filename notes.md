@@ -11,7 +11,7 @@ This page contains selected notes I’ve written or contributed to.
 
 ## STOR 155: Introduction to Data Models and Inference
 
-- [Review Notes](/assets/files/stor155/STOR155Review.pdf)
+- [STOR 155 Review](/assets/files/stor155/STOR155Review.pdf)
 - [Formula Sheet](/assets/files/stor155/FormulaSheet.pdf)
 - [Quotes](/assets/files/stor155/Quotes.pdf)
 
