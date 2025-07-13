@@ -6,6 +6,9 @@ author_profile: false
 ---
 
 {% include base_path %}
-{% for post in site.pages %}
-  {% include archive-single.html %}
+
+{% for page in site.pages %}
+  {% unless page.url == '/page-archive/' %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
