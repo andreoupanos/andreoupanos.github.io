@@ -19,6 +19,18 @@ url                      : "https://andreoupanos.github.io" # the base hostname 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andreoupanos/andreoupanos.github.io"
 
+navigation:
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Talks"
+    url: /talks/
+  - title: "Notes"
+    url: /notes/
+  - title: "CV"
+    url: /cv/
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
