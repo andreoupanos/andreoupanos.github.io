@@ -7,6 +7,10 @@ author_profile: true
 
 ---
 
+### Joint Statistical Meetings
+*August 2025*
+- [Slides](/assets/files/talks/JSM_HomogFusionVAR.pdf)
+
 ### Virtual Time Series Seminar  
 *April 2025*   
 - [Slides](/assets/files/talks/VTSS_HomogFusionVAR.pdf)
