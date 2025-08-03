@@ -33,3 +33,9 @@ author_profile: true
 ### Seminar on Stochastic Processes
 *March 2024*
 - [Slides](/assets/files/talks/PanagiotisAndreou_SSP2024.pdf)
+
+---
+
+### UNC Graduate Student Seminar
+*September 2021*  
+- [Slides](/assets/files/talks/BayesianBootstrapUNC.pdf) 
