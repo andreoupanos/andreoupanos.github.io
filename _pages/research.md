@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### High-Dimensional VAR Models for Uncertainty Spillovers
-With Eric Ghysels 
+With Eric Ghysels  
 *In preparation*
 
 ### Group Factor Models for Mixed-Frequency Panel Data
