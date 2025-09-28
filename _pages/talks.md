@@ -7,6 +7,10 @@ author_profile: true
 
 ---
 
+### Data Science Day
+*September 2025*
+- [Poster](/assets/files/talks/PosterGNAR.pdf)
+
 ### Joint Statistical Meetings
 *August 2025*
 - [Slides](/assets/files/talks/JSM_HomogFusionVAR.pdf)
