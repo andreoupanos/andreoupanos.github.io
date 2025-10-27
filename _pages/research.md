@@ -9,7 +9,7 @@ With Eric Ghysels
 *In preparation*
 
 ### Group Factor Models for Mixed-Frequency Panel Data
-With Andrii Babii, Eric Ghysels, and Mirco Rubin  
+With Eric Ghysels and Mirco Rubin  
 *In preparation*
 
 ### Homogeneity Fusion for Sparse Grouped Network VAR Models
