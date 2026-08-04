@@ -14,7 +14,7 @@ site_theme               : "default"
 title                    : "Panagiotis Andreou"
 title_separator          : "-"
 name                     : &name "Panagiotis Andreou"
-description              : &description "PhD candidate in Statistics"
+description              : &description "Postdoctoral Researcher in Statistics"
 url                      : "https://andreoupanos.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andreoupanos/andreoupanos.github.io"
@@ -39,11 +39,11 @@ author:
   avatar           : "https://andreoupanos.github.io/assets/images/profile.png"
   name             : "Panagiotis Andreou"
   pronouns         : ""  
-  bio              : "PhD candidate in Statistics"
-  location         : "Chapel Hill, NC"
-  employer         : "UNC Chapel Hill"
+  bio              : "Postdoctoral Researcher in Statistics"
+  location         : "Munich, Germany"
+  employer         : "Technical University of Munich"
   uri              : # URL
-  email            : "pandreou@email.unc.edu" 
+  email            : "panagiotis.andreou@tum.de" 
 
   # Academic websites
   academia         : # URL
