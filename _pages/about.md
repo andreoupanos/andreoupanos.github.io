@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Panagiotis Andreou"
 author_profile: true
 permalink: /
