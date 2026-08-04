@@ -4,17 +4,17 @@ permalink: /research/
 author_profile: true
 ---
 
-### High-Dimensional VAR Models for Uncertainty Spillovers
-With Eric Ghysels and Gerald Cohen  
-*In preparation*
-
-### Group Factor Models for Mixed-Frequency Panel Data
-With Eric Ghysels and Mirco Rubin  
+### Homogeneity Fusion for Weak Factor Models
+With Vladas Pipiras and Changryong Baek  
 *In preparation*
 
 ### Homogeneity Fusion for Sparse Grouped Network VAR Models
 With Vladas Pipiras and Changryong Baek  
 *In preparation*
+
+### Measuring and Explaining Economic Uncertainty Across US States and Metropolitan Areas
+With Gerald D. Cohen, Eric Ghysels, Cody Morris, Xinglin Li, and Jieyao Wang
+*Submitted*
 
 ### Opinion dynamics on non-sparse networks with community structure  
 With Mariana Olvera-Cravioto  
