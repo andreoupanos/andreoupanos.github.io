@@ -13,7 +13,7 @@ With Vladas Pipiras and Changryong Baek
 *In preparation*
 
 ### Measuring and Explaining Economic Uncertainty Across US States and Metropolitan Areas
-With Gerald D. Cohen, Eric Ghysels, Cody Morris, Xinglin Li, and Jieyao Wang
+With Gerald D. Cohen, Eric Ghysels, Cody Morris, Xinglin Li, and Jieyao Wang<br>
 *Submitted*
 
 ### Opinion dynamics on non-sparse networks with community structure  

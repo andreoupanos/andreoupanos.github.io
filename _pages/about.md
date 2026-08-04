@@ -1,12 +1,12 @@
 ---
-layout: single
+layout: home
 title: "Panagiotis Andreou"
 author_profile: true
 permalink: /
 ---
 
-Hi, I’m Panos!
+Hi, I'm Panos!
 
-I am a PhD candidate in the Department of Statistics and Operations Research at the University of North Carolina at Chapel Hill, advised by Prof. Vladas Pipiras. My research focuses on *network time series* and *high-dimensional statistics for econometrics*. 
+I am a postdoctoral researcher at the Technical University of Munich, working with Prof. Marie-Christine Düker. I completed my PhD in the Department of Statistics and Operations Research at the University of North Carolina at Chapel Hill, advised by Prof. Vladas Pipiras and working in collaboration with Prof. Eric Ghysels. My research focuses mainly on high-dimensional structured time series with primary applications in finance and econometrics.
 
-In Fall 2025, I will be on the job market. Feel free to explore the tabs above or download my [CV](/assets/files/CVAndreou.pdf).  
+Feel free to explore the tabs above or download my [CV](/assets/files/CV_Andreou.pdf).
